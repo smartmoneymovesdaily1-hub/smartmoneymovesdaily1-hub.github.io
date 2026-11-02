@@ -36,3 +36,20 @@ $grey-color-light: #d9cfa8;
 .post-header .post-title {
   color: #14532d;
 }
+
+// Post images: full-width hero on post pages, thumbnail on the home list.
+.post-hero {
+  width: 100%;
+  border: 2px solid #c9a227;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.post-thumbnail {
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  border: 2px solid #c9a227;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}

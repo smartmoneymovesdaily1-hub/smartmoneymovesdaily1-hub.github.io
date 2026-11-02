@@ -2,7 +2,10 @@
 layout: post
 title: "Your Deposit Is Your Money"
 date: 2026-11-02
+image: /assets/images/deposit.svg
 ---
+
+<img class="post-hero" src="/assets/images/deposit.svg" alt="A house with a large gold key">
 
 *Some links in this post go to my own products on Gumroad.*
 

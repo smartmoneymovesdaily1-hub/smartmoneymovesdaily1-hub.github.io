@@ -2,7 +2,10 @@
 layout: post
 title: "Lost the Job? The First 72 Hours"
 date: 2026-11-02
+image: /assets/images/job-loss.svg
 ---
+
+<img class="post-hero" src="/assets/images/job-loss.svg" alt="A moving box and a clock showing the first 72 hours">
 
 *Some links in this post go to my own products on Gumroad.*
 

@@ -2,7 +2,10 @@
 layout: post
 title: "A Medical Bill Is a Claim, Not a Verdict"
 date: 2026-11-02
+image: /assets/images/medical-bill.svg
 ---
+
+<img class="post-hero" src="/assets/images/medical-bill.svg" alt="A medical bill under a magnifying glass">
 
 *Some links in this post go to my own products on Gumroad.*
 
