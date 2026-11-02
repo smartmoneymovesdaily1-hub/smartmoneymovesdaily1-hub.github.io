@@ -1,0 +1,38 @@
+---
+---
+
+// Smart Money Moves Daily brand colors: deep green + gold, matching the store.
+$brand-color: #8a6d1b;
+$text-color: #1a1a1a;
+$background-color: #fdfdfd;
+$grey-color-dark: #14532d;
+$grey-color-light: #d9cfa8;
+
+@import "minima";
+
+// Dark green header bar with a gold rule and gold site title.
+.site-header {
+  background-color: #14532d;
+  border-top: 5px solid #c9a227;
+  border-bottom: 1px solid #c9a227;
+}
+
+.site-title,
+.site-title:visited {
+  color: #c9a227;
+}
+
+.site-nav .page-link {
+  color: #f5efdc;
+}
+
+// Gold rule above the footer to match the header.
+.site-footer {
+  border-top: 1px solid #c9a227;
+}
+
+// Post titles pick up the deep green.
+.post-title,
+.post-header .post-title {
+  color: #14532d;
+}
